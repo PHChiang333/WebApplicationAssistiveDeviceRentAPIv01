@@ -335,6 +335,7 @@
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controllers\InquiriesController.cs" />
     <Compile Include="Controllers\LineLoginController.cs" />
+    <Compile Include="Controllers\LineMsgController.cs" />
     <Compile Include="Controllers\LinePayController.cs" />
     <Compile Include="Controllers\OrdersController.cs" />
     <Compile Include="Controllers\ProductsController.cs" />
